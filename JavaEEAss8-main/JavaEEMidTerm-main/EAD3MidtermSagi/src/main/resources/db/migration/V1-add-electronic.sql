@@ -1,0 +1,1 @@
+INSERT INTO Admin(name, password) VALUES ('Sagi', 'asd');

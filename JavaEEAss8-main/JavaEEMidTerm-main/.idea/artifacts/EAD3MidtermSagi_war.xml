@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EAD3MidtermSagi:war">
+    <output-path>$PROJECT_DIR$/EAD3MidtermSagi/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>EAD3MidtermSagi</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="EAD3MidtermSagi.war">
+      <element id="artifact" artifact-name="EAD3MidtermSagi:war exploded" />
+    </root>
+  </artifact>
+</component>

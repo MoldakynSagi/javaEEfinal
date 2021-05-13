@@ -1,0 +1,1 @@
+insert into Purchase values ( 1, 1, 1);insert into Purchase values ( 2, 2, 2);
